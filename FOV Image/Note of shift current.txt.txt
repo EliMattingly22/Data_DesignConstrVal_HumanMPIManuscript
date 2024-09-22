@@ -1,0 +1,1 @@
+The measured shift currents need to be multiplied by 4/3 to account for an analog gain that was not included at the time of saving. 
